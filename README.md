@@ -1,5 +1,5 @@
 # Collection of Collections
-Internet has been too wide to see in detail. Curate some lists of things.
+Internet has been too wide to see in detail. Here curated some lists of things.
 
 ## Contents
 
