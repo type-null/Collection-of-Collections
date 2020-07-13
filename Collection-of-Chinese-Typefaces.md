@@ -12,8 +12,6 @@
   <img src='https://gd4.alicdn.com/imgextra/i4/179613192/O1CN01g7oSsZ1ZRyo6DSPwx_!!179613192.jpg' alt='udon-yuan' width='400'/>
   <img src='https://gd2.alicdn.com/imgextra/i1/179613192/TB2Pneol26TBKNjSZJiXXbKVFXa_!!179613192.jpg' alt='mountain-forest' width='400'/>
   <img src='https://gd4.alicdn.com/imgextra/i1/179613192/TB27_p9GFGWBuNjy0FbXXb4sXXa_!!179613192.jpg' alt='ledun' width='400'/>
-  <img src='' alt='' width='400'/>
-  <img src='' alt='' width='400'/>
 </p>
 
 
