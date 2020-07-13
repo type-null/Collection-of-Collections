@@ -1,4 +1,5 @@
 ## Curated list of 😎 Github profile READMEs
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### 🖥 Static Display
 
